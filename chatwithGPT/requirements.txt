@@ -1,0 +1,10 @@
+argparse
+colorama
+langdetect
+nltk
+numpy
+openai
+pandas
+pytesseract
+requests
+transformers
