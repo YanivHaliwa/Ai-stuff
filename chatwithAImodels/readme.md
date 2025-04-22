@@ -89,3 +89,7 @@ Follow the on-screen prompts for each script. Use `/help` command in chat script
 - [Cohere](https://cohere.ai) for their AI model
 - [Google](https://ai.google.dev/) for Gemini AI
 - [Hume AI](https://hume.ai) for voice analysis capabilities
+
+## Author
+
+Created by [Yaniv Haliwa](https://github.com/YanivHaliwa) for security testing and educational purposes.

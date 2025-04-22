@@ -93,4 +93,8 @@ These tools are powerful and should be used responsibly. Ensure you have the rig
 ## Disclaimer
 
 The developers of these tools are not responsible for any misuse or for any damages that may result from the use of these tools. Use at your own risk and discretion.
+
+## Author
+
+Created by [Yaniv Haliwa](https://github.com/YanivHaliwa) for security testing and educational purposes.
  

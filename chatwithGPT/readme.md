@@ -129,3 +129,7 @@ Contributions are welcome! Please feel free to submit pull requests, report bugs
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
+
+## Author
+
+Created by [Yaniv Haliwa](https://github.com/YanivHaliwa) for security testing and educational purposes.
