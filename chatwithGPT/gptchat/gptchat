@@ -395,8 +395,6 @@ def get_bot_response(uinput):
                             {filemsg}
                             {trmsg}
                             {reqmsg}
-                            fit your respond in format of markdown file.
-                            before u say your respond i want you to summarize your chain of thought. then actual responde it. 
                             '''
                             }
                             ]
